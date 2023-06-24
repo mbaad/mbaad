@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mbaad
 - 👀 I’m interested in AI training
 - 🌱 I’m currently learning Matlab coding
-- 💞️ I’m looking to collaborate on project related to this subject
+- 💞️ I’m looking to collaborate on a project related to this subject
 
 
 <!---
